@@ -1,0 +1,13 @@
+#
+#          Author by Weesli
+#
+
+
+options:
+  block-items:
+    # Blocks type name = limit count
+    REDSTONE_BLOCK: 128
+
+
+messages:
+  max-limit: "&cWarning! you can't place more block in this area!"
